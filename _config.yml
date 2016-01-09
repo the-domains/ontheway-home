@@ -1,0 +1,28 @@
+name: ontheway-home
+favicon: null
+layout_spectrum: 0.763518457999453
+typography_spectrum: 0.627339277183637
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4979277381207794
+  lightness: 0.7548720762133598
+  saturation: 0.8336369178723544
+  rhythmicContrast: 0.19401405192911625
+purpose: []
